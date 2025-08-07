@@ -1,0 +1,4 @@
+  0%|                                                                                                                                                  | 0/459 [00:00<?, ?it/s]`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+  6%|████████                                                                                                                        | 29/459 [23:23:49<420:26:08, 3519.93s/it]                                           
+{'loss': 3.862, 'grad_norm': 4.5119948387146, 'learning_rate': 1.8e-05, 'epoch': 0.07}
+{'loss': 3.4699, 'grad_norm': 4.234999656677246, 'learning_rate': 3.8e-05, 'epoch': 0.13}

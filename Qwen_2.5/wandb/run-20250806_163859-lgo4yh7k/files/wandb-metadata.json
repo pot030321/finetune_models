@@ -1,0 +1,29 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.11",
+  "startedAt": "2025-08-06T09:38:59.975691Z",
+  "args": [
+    "--use_sample",
+    "--step",
+    "train"
+  ],
+  "program": "D:\\NKC_Project\\Law_Assistant\\Qwen_2.5\\run_pipeline.py",
+  "codePath": "run_pipeline.py",
+  "codePathLocal": "run_pipeline.py",
+  "email": "quanganhzzz8@gmail.com",
+  "root": "D:\\NKC_Project\\Law_Assistant\\Qwen_2.5",
+  "host": "DESKTOP-96SO4BC",
+  "executable": "D:\\NKC_Project\\Law_Assistant\\myenv\\Scripts\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "104856547328",
+      "used": "75928977408"
+    }
+  },
+  "memory": {
+    "total": "16883564544"
+  },
+  "writerId": "re2dzzhqe5r6nlo33502aiq7llg1mpii"
+}

@@ -1,0 +1,42 @@
+# Core dependencies
+pydantic
+langserve
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Document processing
+unstructured
+pymupdf
+python-docx
+openpyxl
+pandas
+
+# Vector DB
+qdrant-client
+
+# Cloud & Storage
+pulsar-client
+
+# AI/ML
+openai
+anthropic
+langchain-anthropic
+google-generativeai
+
+# Utilities
+python-dotenv
+uuid6
+backoff
+jq
+networkx
+
+# Optional but recommended
+tqdm
+httpx
+fastapi
+sse_starlette
+
+uvicorn
