@@ -1,0 +1,13 @@
+  0%|                                                                                                                                                               | 0/50 [00:00<?, ?it/s]`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50/50 [04:28<00:00,  5.38s/it]
+{'loss': 3.505, 'grad_norm': 3.4063336849212646, 'learning_rate': 9e-06, 'epoch': 1.0}
+{'loss': 3.2768, 'grad_norm': 2.606015205383301, 'learning_rate': 1.9e-05, 'epoch': 2.0}
+{'loss': 2.8787, 'grad_norm': 2.121436357498169, 'learning_rate': 2.9e-05, 'epoch': 3.0}
+{'loss': 2.3871, 'grad_norm': 2.2774901390075684, 'learning_rate': 3.9000000000000006e-05, 'epoch': 4.0}
+{'loss': 2.0028, 'grad_norm': 0.7921383380889893, 'learning_rate': 4.9e-05, 'epoch': 5.0}
+{'train_runtime': 270.9535, 'train_samples_per_second': 22.476, 'train_steps_per_second': 0.185, 'train_loss': 2.8100909042358397, 'epoch': 5.0}
+Saving model to ./qwen_law_assistant...
+Fine-tuning completed!
+Fine-tuning completed! Model saved to: ./qwen_law_assistant
+
+=== Pipeline completed! ===

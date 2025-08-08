@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "Luật doanh nghiệp quy định như thế nào về thành lập công ty?",
+    "response": "Theo Luật Doanh nghiệp 2020, để thành lập công ty trách nhiệm hữu hạn, các thành viên góp vốn cần thực hiện: 1) Chuẩn bị hồ sơ đăng ký thành lập công ty, 2) Nộp hồ sơ tại Phòng Đăng ký kinh doanh cấp tỉnh, 3) Nhận Giấy chứng nhận đăng ký doanh nghiệp sau 15 ngày làm việc."
+  },
+  {
+    "instruction": "Quyền và nghĩa vụ của người lao động theo Bộ luật Lao động là gì?",
+    "response": "Người lao động có quyền: được làm việc trong môi trường an toàn, được trả lương đúng hạn và đầy đủ, được nghỉ phép, được bảo hiểm xã hội. Nghĩa vụ: thực hiện đúng hợp đồng lao động, tuân thủ nội quy công ty, bảo vệ tài sản của người sử dụng lao động."
+  },
+  {
+    "instruction": "Thủ tục ly hôn theo luật hôn nhân và gia đình được thực hiện như thế nào?",
+    "response": "Theo Luật Hôn nhân và Gia đình 2014, ly hôn có thể thực hiện bằng: 1) Ly hôn thuận tình: cả hai vợ chồng đồng ý, có thể đăng ký tại UBND xã/phường, 2) Ly hôn tranh chấp: một bên yêu cầu, phải làm thủ tục tại Tòa án nhân dân cấp huyện."
+  },
+  {
+    "instruction": "Điều kiện mua bán nhà đất theo luật đất đai là gì?",
+    "response": "Theo Luật Đất đai 2013, để mua bán nhà đất cần: 1) Có Giấy chứng nhận quyền sử dụng đất hợp pháp, 2) Người mua phải có đủ điều kiện được sử dụng đất theo quy định, 3) Thực hiện thủ tục chuyển nhượng tại UBND cấp có thẩm quyền, 4) Nộp thuế chuyển nhượng bất động sản."
+  },
+  {
+    "instruction": "Hậu quả pháp lý của việc vi phạm hợp đồng thương mại là gì?",
+    "response": "Vi phạm hợp đồng thương mại có thể bị: 1) Buộc thực hiện đúng nghĩa vụ trong hợp đồng, 2) Bồi thường thiệt hại cho bên bị vi phạm, 3) Trả tiền phạt vi phạm nếu có thỏa thuận trong hợp đồng, 4) Bị đơn phương chấm dứt hợp đồng trong trường hợp vi phạm nghiêm trọng."
+  }
+]

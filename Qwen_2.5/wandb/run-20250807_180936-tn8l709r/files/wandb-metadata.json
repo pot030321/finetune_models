@@ -1,0 +1,44 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.6",
+  "startedAt": "2025-08-07T11:09:36.194347Z",
+  "args": [
+    "--step",
+    "train"
+  ],
+  "program": "A:\\Personal\\finetune_models\\Qwen_2.5\\run_pipeline.py",
+  "codePath": "Qwen_2.5\\run_pipeline.py",
+  "codePathLocal": "run_pipeline.py",
+  "git": {
+    "remote": "https://github.com/pot030321/finetune_models.git",
+    "commit": "1de4ac218513f7107db9fc9cbf8322200a52d033"
+  },
+  "email": "fhhdhysd@gmail.com",
+  "root": "A:\\Personal\\finetune_models\\Qwen_2.5",
+  "host": "DESKTOP-FTP9AVE",
+  "executable": "C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count": 16,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 3090 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "524286947328",
+      "used": "302279741440"
+    }
+  },
+  "memory": {
+    "total": "68471463936"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3090 Ti",
+      "memoryTotal": "25757220864",
+      "cudaCores": 10752,
+      "architecture": "Ampere",
+      "uuid": "GPU-0857ba8c-5049-9f15-3fcc-b2840d5c85ea"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "kcxheex1s1t6ds4ggdsoaqo3ybim1g1a"
+}
