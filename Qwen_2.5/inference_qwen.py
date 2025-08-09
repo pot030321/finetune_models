@@ -43,7 +43,7 @@ class QwenInference:
             self.model = base_model
             print("Using base model (no fine-tuned weights found)")
             
-    def generate_response(self, question: str, max_tokens: int = 300):
+    def generate_response(self, question: str, max_tokens: int = 150):
         """Generate response cho câu hỏi"""
         messages = [
             {"role": "user", "content": question}
