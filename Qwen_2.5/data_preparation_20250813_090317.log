@@ -1,0 +1,4 @@
+2025-08-13 09:03:24,791 - WARNING - From C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-13 09:03:24,980 - INFO - PyTorch version 2.5.1+cu121 available.
+2025-08-13 09:03:24,981 - INFO - TensorFlow version 2.19.0 available.

@@ -1,0 +1,5 @@
+2025-08-13 08:03:55,726 - INFO - Loading model and tokenizer from Qwen/Qwen2.5-0.5B...
+2025-08-13 08:03:56,948 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-08-13 08:03:57,935 - INFO - Model and tokenizer loaded successfully!
+2025-08-13 08:03:58,249 - INFO - Trainable params: 22,487,040 | Total params: 516,519,808 | Percentage: 4.35%
+2025-08-13 08:04:10,143 - INFO - Dataset statistics: {'total_examples': 22026, 'q2a_count': 21690, 'a2a_count': 336, 'avg_token_length': np.float64(487.3500862616907), 'max_token_length': 737, 'min_token_length': 166}

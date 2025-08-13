@@ -1,0 +1,10 @@
+2025-08-12 19:18:29,846 - INFO - Loading model and tokenizer from Qwen/Qwen2.5-0.5B...
+2025-08-12 19:18:31,353 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-08-12 19:18:32,598 - INFO - Model and tokenizer loaded successfully!
+2025-08-12 19:18:32,843 - INFO - Trainable params: 8,798,208 | Total params: 502,830,976 | Percentage: 1.75%
+2025-08-12 19:18:37,672 - INFO - Starting fine-tuning...
+2025-08-12 20:20:34,411 - INFO - Early stopping triggered
+2025-08-12 20:20:35,402 - INFO - Training completed. Final loss: 0.4395
+2025-08-12 20:20:35,402 - INFO - Saving best model to ./qwen_law_assistant...
+2025-08-12 20:20:46,727 - INFO - Early stopping triggered
+2025-08-12 20:20:46,727 - INFO - Final metrics: {'train_runtime': 3717.5657, 'train_samples_per_second': 117.927, 'train_steps_per_second': 3.685, 'total_flos': 5.967896361025536e+16, 'train_loss': 0.43947560755295767, 'epoch': 12.0, 'eval_loss': 0.1516137719154358}
