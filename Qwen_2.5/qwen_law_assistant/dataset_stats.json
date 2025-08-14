@@ -1,0 +1,8 @@
+{
+  "total_examples": 64786,
+  "q2a_count": 64450,
+  "a2a_count": 336,
+  "avg_token_length": 490.7772049516871,
+  "max_token_length": 737,
+  "min_token_length": 166
+}
